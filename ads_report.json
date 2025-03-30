@@ -1,6 +1,7 @@
-{
+[
+    {
     "channel": "",
-    "date": "",
+    "date": "today",
     "campaigns": "",
     "campaign_name": "",
     "campaign_objective": "",
@@ -12,3 +13,4 @@
     "average_cpc": 0.0,
     "leads": 0
 }
+]
