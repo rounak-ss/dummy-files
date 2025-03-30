@@ -1,4 +1,5 @@
-{
+[
+    {
     "campaign": {
         "name": "Elastic Innovators Dinner",
         "client_poc": "Manish",
@@ -28,4 +29,5 @@
         "comments": "",
         "project_status": "Yet to Start"
     }
-}
+ }
+]
