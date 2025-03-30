@@ -1,0 +1,49 @@
+{
+    "event_details": {
+        "name": "AWS Technical Edition",
+        "date": "May 8th, 10:00AM – 4:30PM",
+        "client": "AWS", 
+        "target_attendee": 3000,
+        "campaign_timeline": "1month",
+        "location": "Bangalore-KTPO Exhibition Center, Whitefield",
+        "website": "file:///C:/Users/Latha/Downloads/Elevate%231-technical-blr-25.html",
+        "registration_page": "https://aws.amazon.com/events/summits/bengaluru/technical-edition/?trk=30a427cf-dac5-4a4c-a3ed-17f5d8a5f9c0&sc_channel=em",
+        "target_audience": "CXOs, CTOs, CIOs, Digital Transformation, IT Directors, Software Engineers & Solutions Architects, Data Scientists & ML Engineers, DevOps Leaders & Technical Founders, Cloud Architects, Full-stack Developers, Infrastructure Engineers & Security Specialists",
+        "tal": "https://docs.google.com/spreadsheets/d/11r6JRd5nPoFNk181p996BO-9KF6__reckn8yX2ZcmCo/edit?gid=593569422#gid=593569422",
+        "call_script": "https://docs.google.com/document/d/1IBlbRSGf4QnGCxFGFIvd3Xgi6SIDgW9h/edit"
+    },
+    "vendors": {
+        "elevate_1": {
+            "name": "Leveragz",
+            "location": "Bangalore",
+            "pic": "Deepak",
+            "utm_link": "https://form.jotform.com/250861267284462",
+            "live_sheet": "https://docs.google.com/spreadsheets/d/1mCP02SPVgTPFqmJ1lWDsZrSg9o1O5wEobB0_Pj8DqtQ/edit?gid=61416789#gid=61416789",
+            "cost_per_attendee": 1800,
+            "target_reg": 1500,
+            "start_date": null,
+            "end_date": null,
+            "registrations": 0,
+            "approved": 0,
+            "attendees": 0,
+            "conversion_percentage": 0,
+            "comment": ""
+        },
+        "elevate_2": {
+            "name": "EEPL",
+            "location": "Bangalore",
+            "pic": "~",
+            "utm_link": "",
+            "live_sheet": "",
+            "cost_per_attendee": null,
+            "target_reg": null,
+            "start_date": null,
+            "end_date": null,
+            "registrations": 0,
+            "approved": 0,
+            "attendees": 0,
+            "conversion_percentage": 0,
+            "comment": ""
+        }
+    }
+}

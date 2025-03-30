@@ -1,0 +1,31 @@
+{
+    "campaign": {
+        "name": "Elastic Innovators Dinner",
+        "client_poc": "Manish",
+        "type": "InPerson",
+        "event": {
+            "date": "16 Apr",
+            "city": "Mumbai",
+            "target": {
+                "registration": 15,
+                "attendees": 5
+            }
+        },
+        "client_updates": "",
+        "internal_trackers": "https://docs.google.com/spreadsheets/d/1DS7rpvZDBcxcShiBjys0BhCfBL7wZXdJzhmTTLQGxac/edit?gid=608809521#gid=608809521",
+        "days_left": 18,
+        "budget": null,
+        "spends_till_now": null,
+        "funnels": "Internal",
+        "eepl_poc": "Lenin",
+        "stakeholders": {
+                "acquisition": ["Lenin", "Latha"],
+                "design": ["Bhuvi"],
+                "vendor_management": ["Latha"],
+                "telecalling": ["Mamtha", "Jothika"],
+                "data_management": ["Abhilash"]
+        },
+        "comments": "",
+        "project_status": "Yet to Start"
+    }
+}
